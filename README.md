@@ -1,2 +1,5 @@
-# CarRacingGame1.0
-Car Racing Game Stage 1.0
+# Univaersal canvas
+
+Log 1 : 6:30
+
+Firebase Init and drawing with vertex
